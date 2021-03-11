@@ -1,4 +1,4 @@
-# Contributing to the ApeSwap ecosystem 🥞
+# Contributing to the ApeSwap ecosystem 🐒
 
 Thanks for taking the time to contribute !
 You can start by reading our [Contribution guidelines](#) first.
